@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋😃
 
-<!--
-**AladdinOmar61/AladdinOmar61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-🔭 I’m currently working on full stack react/react native applicaitons
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on full stack react/react native applicaitons
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on full stack applications
+- 🤔 I’m looking for help with AI/ML integrated web applications!
+- 💬 Ask me about web development
+- 📫 How to reach me: Aladdin.Omar61@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Aladdin derives from the name Alaaeldean which means "excellence in faith"
