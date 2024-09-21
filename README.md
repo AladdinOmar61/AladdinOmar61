@@ -1,6 +1,8 @@
 ## Hey! Welcome to my Profile Page 👋😃
 
-
+<html>
+  <h1>My Skills</h1>
+</html>
 
 - 🔭 I’m currently working on full stack react/react native applicaitons
 - 🌱 I’m currently learning AWS
