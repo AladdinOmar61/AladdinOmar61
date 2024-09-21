@@ -2,6 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AladdinOmar61&theme=holi)
 
+<p>
+  <h2>More About me:</h2>
+  <a href="https://linkedin.com/in/aladdinomar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https:aladdinomar.netlify.app"><img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=opsgenie"/></a>
+</p>
 
 -----
 
