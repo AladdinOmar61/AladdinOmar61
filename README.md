@@ -9,4 +9,3 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: Aladdin.Omar61@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Aladdin derives from the name Alaaeldean which means "excellence in faith"
