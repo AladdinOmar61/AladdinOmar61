@@ -1,13 +1,11 @@
 ## Hey! Welcome to my Profile Page 👋😃
 
 <html>
-  <h1>My Skills</h1>
+<h1>- 🔭 I’m currently working on full stack react/react native applicaitons</h1>
+<h1>- 🌱 I’m currently learning AWS</h1>
+<h1>- 👯 I’m looking to collaborate on full stack applications</h1>
+<h1>- 🤔 I’m looking for help with AI/ML integrated web applications!</h1>
+<h1>- 💬 Ask me about web development</h1>
+<h1>- 📫 How to reach me: Aladdin.Omar61@gmail.com</h1>
+<h1>- 😄 Pronouns: He/Him</h1>
 </html>
-
-- 🔭 I’m currently working on full stack react/react native applicaitons
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on full stack applications
-- 🤔 I’m looking for help with AI/ML integrated web applications!
-- 💬 Ask me about web development
-- 📫 How to reach me: Aladdin.Omar61@gmail.com
-- 😄 Pronouns: He/Him
